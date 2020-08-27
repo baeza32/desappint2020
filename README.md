@@ -1,3 +1,3 @@
 # Universidad Autonoma de Zacatecas
-## Desarrollo de aAplicaciones en Internet
+## Desarrollo de Aplicaciones en Internet
 ### C# 
