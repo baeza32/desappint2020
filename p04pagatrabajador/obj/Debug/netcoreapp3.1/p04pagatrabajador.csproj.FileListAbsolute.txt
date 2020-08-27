@@ -1,0 +1,13 @@
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p04pagatrabajador\bin\Debug\netcoreapp3.1\p04pagatrabajador.exe
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p04pagatrabajador\bin\Debug\netcoreapp3.1\p04pagatrabajador.deps.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p04pagatrabajador\bin\Debug\netcoreapp3.1\p04pagatrabajador.runtimeconfig.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p04pagatrabajador\bin\Debug\netcoreapp3.1\p04pagatrabajador.runtimeconfig.dev.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p04pagatrabajador\bin\Debug\netcoreapp3.1\p04pagatrabajador.dll
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p04pagatrabajador\bin\Debug\netcoreapp3.1\p04pagatrabajador.pdb
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p04pagatrabajador\obj\Debug\netcoreapp3.1\p04pagatrabajador.csprojAssemblyReference.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p04pagatrabajador\obj\Debug\netcoreapp3.1\p04pagatrabajador.AssemblyInfoInputs.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p04pagatrabajador\obj\Debug\netcoreapp3.1\p04pagatrabajador.AssemblyInfo.cs
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p04pagatrabajador\obj\Debug\netcoreapp3.1\p04pagatrabajador.csproj.CoreCompileInputs.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p04pagatrabajador\obj\Debug\netcoreapp3.1\p04pagatrabajador.dll
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p04pagatrabajador\obj\Debug\netcoreapp3.1\p04pagatrabajador.pdb
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p04pagatrabajador\obj\Debug\netcoreapp3.1\p04pagatrabajador.genruntimeconfig.cache
