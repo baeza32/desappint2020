@@ -1,0 +1,13 @@
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p05ciclos\obj\Debug\netcoreapp3.1\p05ciclos.csprojAssemblyReference.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p05ciclos\obj\Debug\netcoreapp3.1\p05ciclos.AssemblyInfoInputs.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p05ciclos\obj\Debug\netcoreapp3.1\p05ciclos.AssemblyInfo.cs
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p05ciclos\obj\Debug\netcoreapp3.1\p05ciclos.csproj.CoreCompileInputs.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p05ciclos\bin\Debug\netcoreapp3.1\p05ciclos.exe
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p05ciclos\bin\Debug\netcoreapp3.1\p05ciclos.deps.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p05ciclos\bin\Debug\netcoreapp3.1\p05ciclos.runtimeconfig.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p05ciclos\bin\Debug\netcoreapp3.1\p05ciclos.runtimeconfig.dev.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p05ciclos\bin\Debug\netcoreapp3.1\p05ciclos.dll
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p05ciclos\bin\Debug\netcoreapp3.1\p05ciclos.pdb
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p05ciclos\obj\Debug\netcoreapp3.1\p05ciclos.dll
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p05ciclos\obj\Debug\netcoreapp3.1\p05ciclos.pdb
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p05ciclos\obj\Debug\netcoreapp3.1\p05ciclos.genruntimeconfig.cache

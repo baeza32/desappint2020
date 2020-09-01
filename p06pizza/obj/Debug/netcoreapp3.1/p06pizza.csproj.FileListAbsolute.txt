@@ -1,0 +1,13 @@
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p06pizza\bin\Debug\netcoreapp3.1\p06pizza.exe
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p06pizza\bin\Debug\netcoreapp3.1\p06pizza.deps.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p06pizza\bin\Debug\netcoreapp3.1\p06pizza.runtimeconfig.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p06pizza\bin\Debug\netcoreapp3.1\p06pizza.runtimeconfig.dev.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p06pizza\bin\Debug\netcoreapp3.1\p06pizza.dll
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p06pizza\bin\Debug\netcoreapp3.1\p06pizza.pdb
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p06pizza\obj\Debug\netcoreapp3.1\p06pizza.csprojAssemblyReference.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p06pizza\obj\Debug\netcoreapp3.1\p06pizza.AssemblyInfoInputs.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p06pizza\obj\Debug\netcoreapp3.1\p06pizza.AssemblyInfo.cs
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p06pizza\obj\Debug\netcoreapp3.1\p06pizza.csproj.CoreCompileInputs.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p06pizza\obj\Debug\netcoreapp3.1\p06pizza.dll
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p06pizza\obj\Debug\netcoreapp3.1\p06pizza.pdb
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p06pizza\obj\Debug\netcoreapp3.1\p06pizza.genruntimeconfig.cache
