@@ -1,0 +1,13 @@
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p08vectorpromedio\bin\Debug\netcoreapp3.1\p08vectorpromedio.exe
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p08vectorpromedio\bin\Debug\netcoreapp3.1\p08vectorpromedio.deps.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p08vectorpromedio\bin\Debug\netcoreapp3.1\p08vectorpromedio.runtimeconfig.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p08vectorpromedio\bin\Debug\netcoreapp3.1\p08vectorpromedio.runtimeconfig.dev.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p08vectorpromedio\bin\Debug\netcoreapp3.1\p08vectorpromedio.dll
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p08vectorpromedio\bin\Debug\netcoreapp3.1\p08vectorpromedio.pdb
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p08vectorpromedio\obj\Debug\netcoreapp3.1\p08vectorpromedio.csprojAssemblyReference.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p08vectorpromedio\obj\Debug\netcoreapp3.1\p08vectorpromedio.AssemblyInfoInputs.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p08vectorpromedio\obj\Debug\netcoreapp3.1\p08vectorpromedio.AssemblyInfo.cs
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p08vectorpromedio\obj\Debug\netcoreapp3.1\p08vectorpromedio.csproj.CoreCompileInputs.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p08vectorpromedio\obj\Debug\netcoreapp3.1\p08vectorpromedio.dll
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p08vectorpromedio\obj\Debug\netcoreapp3.1\p08vectorpromedio.pdb
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p08vectorpromedio\obj\Debug\netcoreapp3.1\p08vectorpromedio.genruntimeconfig.cache

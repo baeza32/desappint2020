@@ -1,0 +1,13 @@
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p09vectoraleatorio\bin\Debug\netcoreapp3.1\p09vectoraleatorio.exe
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p09vectoraleatorio\bin\Debug\netcoreapp3.1\p09vectoraleatorio.deps.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p09vectoraleatorio\bin\Debug\netcoreapp3.1\p09vectoraleatorio.runtimeconfig.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p09vectoraleatorio\bin\Debug\netcoreapp3.1\p09vectoraleatorio.runtimeconfig.dev.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p09vectoraleatorio\bin\Debug\netcoreapp3.1\p09vectoraleatorio.dll
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p09vectoraleatorio\bin\Debug\netcoreapp3.1\p09vectoraleatorio.pdb
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p09vectoraleatorio\obj\Debug\netcoreapp3.1\p09vectoraleatorio.csprojAssemblyReference.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p09vectoraleatorio\obj\Debug\netcoreapp3.1\p09vectoraleatorio.AssemblyInfoInputs.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p09vectoraleatorio\obj\Debug\netcoreapp3.1\p09vectoraleatorio.AssemblyInfo.cs
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p09vectoraleatorio\obj\Debug\netcoreapp3.1\p09vectoraleatorio.csproj.CoreCompileInputs.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p09vectoraleatorio\obj\Debug\netcoreapp3.1\p09vectoraleatorio.dll
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p09vectoraleatorio\obj\Debug\netcoreapp3.1\p09vectoraleatorio.pdb
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p09vectoraleatorio\obj\Debug\netcoreapp3.1\p09vectoraleatorio.genruntimeconfig.cache

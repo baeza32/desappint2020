@@ -43,11 +43,11 @@ namespace p06pizza
 
             // Tipo de cubierta
             cub = char.Parse(args[2].ToUpper());
-            cubierta = cub=='D' ? "Delgada": "Gruesa";
+            cubierta = cub =='D' ? "Delgada": "Gruesa";
 
             // Elegir donde comer
             don = char.Parse(args[3].ToUpper());
-            donde = don=='A' ? "Aqui": "Para llevar";
+            donde = don =='A' ? "Aqui": "Para llevar";
 
 
             Console.WriteLine("\nLa pizza que pediste es la siguiente");

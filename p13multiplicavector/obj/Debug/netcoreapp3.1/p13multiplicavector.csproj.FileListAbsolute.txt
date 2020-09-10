@@ -1,0 +1,13 @@
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p13multiplicavector\obj\Debug\netcoreapp3.1\p13multiplicavector.csprojAssemblyReference.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p13multiplicavector\obj\Debug\netcoreapp3.1\p13multiplicavector.AssemblyInfoInputs.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p13multiplicavector\obj\Debug\netcoreapp3.1\p13multiplicavector.AssemblyInfo.cs
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p13multiplicavector\obj\Debug\netcoreapp3.1\p13multiplicavector.csproj.CoreCompileInputs.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p13multiplicavector\bin\Debug\netcoreapp3.1\p13multiplicavector.exe
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p13multiplicavector\bin\Debug\netcoreapp3.1\p13multiplicavector.deps.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p13multiplicavector\bin\Debug\netcoreapp3.1\p13multiplicavector.runtimeconfig.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p13multiplicavector\bin\Debug\netcoreapp3.1\p13multiplicavector.runtimeconfig.dev.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p13multiplicavector\bin\Debug\netcoreapp3.1\p13multiplicavector.dll
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p13multiplicavector\bin\Debug\netcoreapp3.1\p13multiplicavector.pdb
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p13multiplicavector\obj\Debug\netcoreapp3.1\p13multiplicavector.dll
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p13multiplicavector\obj\Debug\netcoreapp3.1\p13multiplicavector.pdb
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p13multiplicavector\obj\Debug\netcoreapp3.1\p13multiplicavector.genruntimeconfig.cache

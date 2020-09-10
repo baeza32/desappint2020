@@ -1,0 +1,13 @@
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p12vetorinverso\obj\Debug\netcoreapp3.1\p12vetorinverso.csprojAssemblyReference.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p12vetorinverso\obj\Debug\netcoreapp3.1\p12vetorinverso.AssemblyInfoInputs.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p12vetorinverso\obj\Debug\netcoreapp3.1\p12vetorinverso.AssemblyInfo.cs
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p12vetorinverso\obj\Debug\netcoreapp3.1\p12vetorinverso.csproj.CoreCompileInputs.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p12vetorinverso\bin\Debug\netcoreapp3.1\p12vetorinverso.exe
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p12vetorinverso\bin\Debug\netcoreapp3.1\p12vetorinverso.deps.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p12vetorinverso\bin\Debug\netcoreapp3.1\p12vetorinverso.runtimeconfig.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p12vetorinverso\bin\Debug\netcoreapp3.1\p12vetorinverso.runtimeconfig.dev.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p12vetorinverso\bin\Debug\netcoreapp3.1\p12vetorinverso.dll
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p12vetorinverso\bin\Debug\netcoreapp3.1\p12vetorinverso.pdb
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p12vetorinverso\obj\Debug\netcoreapp3.1\p12vetorinverso.dll
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p12vetorinverso\obj\Debug\netcoreapp3.1\p12vetorinverso.pdb
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p12vetorinverso\obj\Debug\netcoreapp3.1\p12vetorinverso.genruntimeconfig.cache

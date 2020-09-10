@@ -1,0 +1,13 @@
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p11vectorsumas\bin\Debug\netcoreapp3.1\p11vectorsumas.exe
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p11vectorsumas\bin\Debug\netcoreapp3.1\p11vectorsumas.deps.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p11vectorsumas\bin\Debug\netcoreapp3.1\p11vectorsumas.runtimeconfig.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p11vectorsumas\bin\Debug\netcoreapp3.1\p11vectorsumas.runtimeconfig.dev.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p11vectorsumas\bin\Debug\netcoreapp3.1\p11vectorsumas.dll
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p11vectorsumas\bin\Debug\netcoreapp3.1\p11vectorsumas.pdb
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p11vectorsumas\obj\Debug\netcoreapp3.1\p11vectorsumas.csprojAssemblyReference.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p11vectorsumas\obj\Debug\netcoreapp3.1\p11vectorsumas.AssemblyInfoInputs.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p11vectorsumas\obj\Debug\netcoreapp3.1\p11vectorsumas.AssemblyInfo.cs
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p11vectorsumas\obj\Debug\netcoreapp3.1\p11vectorsumas.csproj.CoreCompileInputs.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p11vectorsumas\obj\Debug\netcoreapp3.1\p11vectorsumas.dll
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p11vectorsumas\obj\Debug\netcoreapp3.1\p11vectorsumas.pdb
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p11vectorsumas\obj\Debug\netcoreapp3.1\p11vectorsumas.genruntimeconfig.cache
