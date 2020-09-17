@@ -90,7 +90,7 @@ namespace p05ciclos
                     Console.WriteLine($"\n La suma es {suma}");
                     break;
                 }
-                break;
+                // break;
             }
 
 

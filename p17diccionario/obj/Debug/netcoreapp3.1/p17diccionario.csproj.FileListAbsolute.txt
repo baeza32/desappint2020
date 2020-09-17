@@ -1,0 +1,13 @@
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p17diccionario\bin\Debug\netcoreapp3.1\p17diccionario.exe
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p17diccionario\bin\Debug\netcoreapp3.1\p17diccionario.deps.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p17diccionario\bin\Debug\netcoreapp3.1\p17diccionario.runtimeconfig.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p17diccionario\bin\Debug\netcoreapp3.1\p17diccionario.runtimeconfig.dev.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p17diccionario\bin\Debug\netcoreapp3.1\p17diccionario.dll
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p17diccionario\bin\Debug\netcoreapp3.1\p17diccionario.pdb
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p17diccionario\obj\Debug\netcoreapp3.1\p17diccionario.csprojAssemblyReference.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p17diccionario\obj\Debug\netcoreapp3.1\p17diccionario.AssemblyInfoInputs.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p17diccionario\obj\Debug\netcoreapp3.1\p17diccionario.AssemblyInfo.cs
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p17diccionario\obj\Debug\netcoreapp3.1\p17diccionario.csproj.CoreCompileInputs.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p17diccionario\obj\Debug\netcoreapp3.1\p17diccionario.dll
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p17diccionario\obj\Debug\netcoreapp3.1\p17diccionario.pdb
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p17diccionario\obj\Debug\netcoreapp3.1\p17diccionario.genruntimeconfig.cache
