@@ -1,0 +1,13 @@
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p20Linq1\obj\Debug\netcoreapp3.1\p20Linq1.csprojAssemblyReference.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p20Linq1\obj\Debug\netcoreapp3.1\p20Linq1.AssemblyInfoInputs.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p20Linq1\obj\Debug\netcoreapp3.1\p20Linq1.AssemblyInfo.cs
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p20Linq1\obj\Debug\netcoreapp3.1\p20Linq1.csproj.CoreCompileInputs.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p20Linq1\bin\Debug\netcoreapp3.1\p20Linq1.exe
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p20Linq1\bin\Debug\netcoreapp3.1\p20Linq1.deps.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p20Linq1\bin\Debug\netcoreapp3.1\p20Linq1.runtimeconfig.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p20Linq1\bin\Debug\netcoreapp3.1\p20Linq1.runtimeconfig.dev.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p20Linq1\bin\Debug\netcoreapp3.1\p20Linq1.dll
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p20Linq1\bin\Debug\netcoreapp3.1\p20Linq1.pdb
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p20Linq1\obj\Debug\netcoreapp3.1\p20Linq1.dll
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p20Linq1\obj\Debug\netcoreapp3.1\p20Linq1.pdb
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p20Linq1\obj\Debug\netcoreapp3.1\p20Linq1.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p22Linq3\obj\Debug\netcoreapp3.1\p22Linq3.csprojAssemblyReference.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p22Linq3\obj\Debug\netcoreapp3.1\p22Linq3.AssemblyInfoInputs.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p22Linq3\obj\Debug\netcoreapp3.1\p22Linq3.AssemblyInfo.cs
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p22Linq3\obj\Debug\netcoreapp3.1\p22Linq3.csproj.CoreCompileInputs.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p22Linq3\bin\Debug\netcoreapp3.1\p22Linq3.exe
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p22Linq3\bin\Debug\netcoreapp3.1\p22Linq3.deps.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p22Linq3\bin\Debug\netcoreapp3.1\p22Linq3.runtimeconfig.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p22Linq3\bin\Debug\netcoreapp3.1\p22Linq3.runtimeconfig.dev.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p22Linq3\bin\Debug\netcoreapp3.1\p22Linq3.dll
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p22Linq3\bin\Debug\netcoreapp3.1\p22Linq3.pdb
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p22Linq3\obj\Debug\netcoreapp3.1\p22Linq3.dll
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p22Linq3\obj\Debug\netcoreapp3.1\p22Linq3.pdb
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p22Linq3\obj\Debug\netcoreapp3.1\p22Linq3.genruntimeconfig.cache
