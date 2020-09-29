@@ -1,0 +1,13 @@
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p24Interfaz2\bin\Debug\netcoreapp3.1\p24Interfaz2.exe
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p24Interfaz2\bin\Debug\netcoreapp3.1\p24Interfaz2.deps.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p24Interfaz2\bin\Debug\netcoreapp3.1\p24Interfaz2.runtimeconfig.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p24Interfaz2\bin\Debug\netcoreapp3.1\p24Interfaz2.runtimeconfig.dev.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p24Interfaz2\bin\Debug\netcoreapp3.1\p24Interfaz2.dll
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p24Interfaz2\bin\Debug\netcoreapp3.1\p24Interfaz2.pdb
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p24Interfaz2\obj\Debug\netcoreapp3.1\p24Interfaz2.csprojAssemblyReference.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p24Interfaz2\obj\Debug\netcoreapp3.1\p24Interfaz2.AssemblyInfoInputs.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p24Interfaz2\obj\Debug\netcoreapp3.1\p24Interfaz2.AssemblyInfo.cs
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p24Interfaz2\obj\Debug\netcoreapp3.1\p24Interfaz2.csproj.CoreCompileInputs.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p24Interfaz2\obj\Debug\netcoreapp3.1\p24Interfaz2.dll
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p24Interfaz2\obj\Debug\netcoreapp3.1\p24Interfaz2.pdb
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p24Interfaz2\obj\Debug\netcoreapp3.1\p24Interfaz2.genruntimeconfig.cache

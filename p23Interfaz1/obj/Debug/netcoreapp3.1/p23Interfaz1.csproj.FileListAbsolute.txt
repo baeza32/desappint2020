@@ -1,0 +1,13 @@
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p23Interfaz1\bin\Debug\netcoreapp3.1\p23Interfaz1.exe
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p23Interfaz1\bin\Debug\netcoreapp3.1\p23Interfaz1.deps.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p23Interfaz1\bin\Debug\netcoreapp3.1\p23Interfaz1.runtimeconfig.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p23Interfaz1\bin\Debug\netcoreapp3.1\p23Interfaz1.runtimeconfig.dev.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p23Interfaz1\bin\Debug\netcoreapp3.1\p23Interfaz1.dll
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p23Interfaz1\bin\Debug\netcoreapp3.1\p23Interfaz1.pdb
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p23Interfaz1\obj\Debug\netcoreapp3.1\p23Interfaz1.csprojAssemblyReference.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p23Interfaz1\obj\Debug\netcoreapp3.1\p23Interfaz1.AssemblyInfoInputs.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p23Interfaz1\obj\Debug\netcoreapp3.1\p23Interfaz1.AssemblyInfo.cs
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p23Interfaz1\obj\Debug\netcoreapp3.1\p23Interfaz1.csproj.CoreCompileInputs.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p23Interfaz1\obj\Debug\netcoreapp3.1\p23Interfaz1.dll
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p23Interfaz1\obj\Debug\netcoreapp3.1\p23Interfaz1.pdb
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p23Interfaz1\obj\Debug\netcoreapp3.1\p23Interfaz1.genruntimeconfig.cache
