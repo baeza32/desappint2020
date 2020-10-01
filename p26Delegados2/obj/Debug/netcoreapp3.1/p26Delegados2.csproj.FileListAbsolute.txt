@@ -1,0 +1,13 @@
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p26Delegados2\bin\Debug\netcoreapp3.1\p26Delegados2.exe
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p26Delegados2\bin\Debug\netcoreapp3.1\p26Delegados2.deps.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p26Delegados2\bin\Debug\netcoreapp3.1\p26Delegados2.runtimeconfig.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p26Delegados2\bin\Debug\netcoreapp3.1\p26Delegados2.runtimeconfig.dev.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p26Delegados2\bin\Debug\netcoreapp3.1\p26Delegados2.dll
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p26Delegados2\bin\Debug\netcoreapp3.1\p26Delegados2.pdb
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p26Delegados2\obj\Debug\netcoreapp3.1\p26Delegados2.csprojAssemblyReference.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p26Delegados2\obj\Debug\netcoreapp3.1\p26Delegados2.AssemblyInfoInputs.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p26Delegados2\obj\Debug\netcoreapp3.1\p26Delegados2.AssemblyInfo.cs
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p26Delegados2\obj\Debug\netcoreapp3.1\p26Delegados2.csproj.CoreCompileInputs.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p26Delegados2\obj\Debug\netcoreapp3.1\p26Delegados2.dll
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p26Delegados2\obj\Debug\netcoreapp3.1\p26Delegados2.pdb
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p26Delegados2\obj\Debug\netcoreapp3.1\p26Delegados2.genruntimeconfig.cache

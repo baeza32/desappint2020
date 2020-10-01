@@ -1,0 +1,13 @@
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p28Delegados4\obj\Debug\netcoreapp3.1\p28Delegados4.csprojAssemblyReference.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p28Delegados4\obj\Debug\netcoreapp3.1\p28Delegados4.AssemblyInfoInputs.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p28Delegados4\obj\Debug\netcoreapp3.1\p28Delegados4.AssemblyInfo.cs
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p28Delegados4\obj\Debug\netcoreapp3.1\p28Delegados4.csproj.CoreCompileInputs.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p28Delegados4\bin\Debug\netcoreapp3.1\p28Delegados4.exe
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p28Delegados4\bin\Debug\netcoreapp3.1\p28Delegados4.deps.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p28Delegados4\bin\Debug\netcoreapp3.1\p28Delegados4.runtimeconfig.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p28Delegados4\bin\Debug\netcoreapp3.1\p28Delegados4.runtimeconfig.dev.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p28Delegados4\bin\Debug\netcoreapp3.1\p28Delegados4.dll
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p28Delegados4\bin\Debug\netcoreapp3.1\p28Delegados4.pdb
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p28Delegados4\obj\Debug\netcoreapp3.1\p28Delegados4.dll
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p28Delegados4\obj\Debug\netcoreapp3.1\p28Delegados4.pdb
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p28Delegados4\obj\Debug\netcoreapp3.1\p28Delegados4.genruntimeconfig.cache

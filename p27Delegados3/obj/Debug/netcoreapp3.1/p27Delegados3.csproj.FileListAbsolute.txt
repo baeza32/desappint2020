@@ -1,0 +1,13 @@
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p27Delegados3\bin\Debug\netcoreapp3.1\p27Delegados3.exe
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p27Delegados3\bin\Debug\netcoreapp3.1\p27Delegados3.deps.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p27Delegados3\bin\Debug\netcoreapp3.1\p27Delegados3.runtimeconfig.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p27Delegados3\bin\Debug\netcoreapp3.1\p27Delegados3.runtimeconfig.dev.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p27Delegados3\bin\Debug\netcoreapp3.1\p27Delegados3.dll
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p27Delegados3\bin\Debug\netcoreapp3.1\p27Delegados3.pdb
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p27Delegados3\obj\Debug\netcoreapp3.1\p27Delegados3.csprojAssemblyReference.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p27Delegados3\obj\Debug\netcoreapp3.1\p27Delegados3.AssemblyInfoInputs.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p27Delegados3\obj\Debug\netcoreapp3.1\p27Delegados3.AssemblyInfo.cs
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p27Delegados3\obj\Debug\netcoreapp3.1\p27Delegados3.csproj.CoreCompileInputs.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p27Delegados3\obj\Debug\netcoreapp3.1\p27Delegados3.dll
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p27Delegados3\obj\Debug\netcoreapp3.1\p27Delegados3.pdb
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p27Delegados3\obj\Debug\netcoreapp3.1\p27Delegados3.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p25Delegados1\bin\Debug\netcoreapp3.1\p25Delegados1.exe
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p25Delegados1\bin\Debug\netcoreapp3.1\p25Delegados1.deps.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p25Delegados1\bin\Debug\netcoreapp3.1\p25Delegados1.runtimeconfig.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p25Delegados1\bin\Debug\netcoreapp3.1\p25Delegados1.runtimeconfig.dev.json
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p25Delegados1\bin\Debug\netcoreapp3.1\p25Delegados1.dll
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p25Delegados1\bin\Debug\netcoreapp3.1\p25Delegados1.pdb
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p25Delegados1\obj\Debug\netcoreapp3.1\p25Delegados1.csprojAssemblyReference.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p25Delegados1\obj\Debug\netcoreapp3.1\p25Delegados1.AssemblyInfoInputs.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p25Delegados1\obj\Debug\netcoreapp3.1\p25Delegados1.AssemblyInfo.cs
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p25Delegados1\obj\Debug\netcoreapp3.1\p25Delegados1.csproj.CoreCompileInputs.cache
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p25Delegados1\obj\Debug\netcoreapp3.1\p25Delegados1.dll
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p25Delegados1\obj\Debug\netcoreapp3.1\p25Delegados1.pdb
+D:\UAZ\Materias 2020\DesarrolloApp\proyectos\p25Delegados1\obj\Debug\netcoreapp3.1\p25Delegados1.genruntimeconfig.cache
